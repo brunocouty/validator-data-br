@@ -1,6 +1,6 @@
 {
   "name": "brunocouty/validator-data-br",
-  "description": "Biblioteca de validação de dados Brasileiros: CPF, CNPJ, telefone celular...",
+  "description": "Biblioteca de validação de dados Brasileiros: CPF, CNPJ, Celular, Cartão de Crédito, CNH, NIS (PIS/PASEP/NIT), Título de Eleitor, DDD e UF",
   "authors": [
     {
       "name": "Bruno Couty",
